@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Metavarse'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42014E5D3CE74DF38D8FE60E44802316 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD40F310CB184428B5758162B6A10B12 }}
           package: .
